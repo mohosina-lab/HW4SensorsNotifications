@@ -17,7 +17,7 @@ The app uses the Ambient Temperature sensor (Sensor.TYPE_AMBIENT_TEMPERATURE). A
 The current temperature value is displayed on screen and also included in the notification text. In the emulator, the temperature is changed via Extended Controls-Virtual sensors- Additional sensors - Ambient temperature (°C). The notification text shows the temperature value captured at the moment the work request is scheduled.
 
 ## AI Usage Declaration
-Generative AI tools were used to provide guidance and troubleshooting support during the development of this exercise, particularly for resolving emulator crashes and challenges related to image selection and persistence. All implementation decisions and final code were reviewed and written by the author.
+Generative AI tools were used to provide guidance and troubleshooting support during the development of this exercise, particularly for resolving emulator crashes. All implementation decisions and final code were reviewed and written by the author.
 
 ## Author
 **Mohosina Akhter**
